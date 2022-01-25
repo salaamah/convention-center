@@ -10,6 +10,10 @@
     top: -3%;
     right: 10%;
 }
-.my-tost{
-    
+main{
+    position: relative;
+}
+.my-toast{
+    position: absolute;
+    right: 0%;
 }
