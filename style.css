@@ -12,6 +12,7 @@
 }
 main{
     position: relative;
+    padding: 5%;
 }
 .my-toast{
     position: absolute;
